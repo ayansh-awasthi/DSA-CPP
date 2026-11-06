@@ -25,6 +25,7 @@ My Data Structures and Algorithms journey using C++.
 | ------- | ------------------------------ | -------------------------- | -------------- | ---------- |
 | 1       | Two Sum                        | Array / Hashing            | Easy           | Solved     |
 | 9       | Palindrome Number              | Math                       | Easy           | Solved     |
+| 26      | Remove Duplicates from Sorted Array | Array / Two Pointers  | Easy           | Solved     |
 | 27      | Remove Element                 | Array / Two Pointers       | Easy           | Solved     |
 | 50      | Pow(x, n)                      | Math / Recursion           | Medium         | Solved     |
 | 53      | Maximum Subarray               | Array / Kadane's Algorithm | Medium         | Solved     |
@@ -36,8 +37,8 @@ My Data Structures and Algorithms journey using C++.
 
 ## Progress Summary
 
-- **Total Problems Solved:** 10
-- **Easy:** 7
+- **Total Problems Solved:** 11
+- **Easy:** 8
 - **Medium:** 3
 - **Hard:** 0
 - **Language:** C++
@@ -48,6 +49,7 @@ My Data Structures and Algorithms journey using C++.
 | ----------- | ------------------ |
 | 05 Nov 2026 | Palindrome Number  |
 | 06 Nov 2026 | Remove Element     |
+| 06 Nov 2026 | Remove Duplicates from Sorted Array |
 
 ## Goals
 
