@@ -25,6 +25,7 @@ My Data Structures and Algorithms journey using C++.
 | **No.** | **Problem Name** | **Topic** | **Difficulty** | **Status** |
 | ------- | ------------------------------ | -------------------------- | -------------- | ---------- |
 | 1 | Two Sum | Array / Hashing | Easy | Solved |
+| 7 | Reverse Integer | Math | Medium | Solved |
 | 9 | Palindrome Number | Math | Easy | Solved |
 | 12 | Integer to Roman | Math / String / Greedy | Medium | Solved |
 | 26 | Remove Duplicates from Sorted Array | Array / Two Pointers | Easy | Solved |
@@ -39,9 +40,9 @@ My Data Structures and Algorithms journey using C++.
 
 ## Progress Summary
 
-- **Total Problems Solved:** 12
+- **Total Problems Solved:** 13
 - **Easy:** 8
-- **Medium:** 4
+- **Medium:** 5
 - **Hard:** 0
 - **Language:** C++
 
@@ -53,6 +54,7 @@ My Data Structures and Algorithms journey using C++.
 | 06 Nov 2026 | Remove Element |
 | 06 Nov 2026 | Remove Duplicates from Sorted Array |
 | 07 Nov 2026 | Integer to Roman |
+| 08 Nov 2026 | Reverse Integer |
 
 ## Goals
 
