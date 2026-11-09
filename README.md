@@ -19,12 +19,14 @@ My Data Structures and Algorithms journey using C++.
 - Divide and Conquer
 - Two Pointers
 - Greedy
+- Binary Search
 
 ## LeetCode Progress
 
 | **No.** | **Problem Name** | **Topic** | **Difficulty** | **Status** |
 | ------- | ------------------------------ | -------------------------- | -------------- | ---------- |
 | 1 | Two Sum | Array / Hashing | Easy | Solved |
+| 4 | Median of Two Sorted Arrays | Binary Search | Hard | Solved |
 | 7 | Reverse Integer | Math | Medium | Solved |
 | 9 | Palindrome Number | Math | Easy | Solved |
 | 12 | Integer to Roman | Math / String / Greedy | Medium | Solved |
@@ -40,10 +42,10 @@ My Data Structures and Algorithms journey using C++.
 
 ## Progress Summary
 
-- **Total Problems Solved:** 13
+- **Total Problems Solved:** 14
 - **Easy:** 8
 - **Medium:** 5
-- **Hard:** 0
+- **Hard:** 1
 - **Language:** C++
 
 ## Daily Progress
@@ -55,6 +57,7 @@ My Data Structures and Algorithms journey using C++.
 | 06 Nov 2026 | Remove Duplicates from Sorted Array |
 | 07 Nov 2026 | Integer to Roman |
 | 08 Nov 2026 | Reverse Integer |
+| 09 Nov 2026 | Median of Two Sorted Arrays |
 
 ## Goals
 
