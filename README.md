@@ -33,6 +33,7 @@ My Data Structures and Algorithms journey using C++.
 | 13 | Roman to Integer | Math / String | Easy | Solved |
 | 26 | Remove Duplicates from Sorted Array | Array / Two Pointers | Easy | Solved |
 | 27 | Remove Element | Array / Two Pointers | Easy | Solved |
+| 35 | Search Insert Position | Array / Binary Search | Easy | Solved |
 | 50 | Pow(x, n) | Math / Recursion | Medium | Solved |
 | 53 | Maximum Subarray | Array / Kadane's Algorithm | Medium | Solved |
 | 69 | Sqrt(x) | Math / Binary Search | Easy | Solved |
@@ -44,8 +45,8 @@ My Data Structures and Algorithms journey using C++.
 
 ## Progress Summary
 
-- **Total Problems Solved:** 16
-- **Easy:** 10
+- **Total Problems Solved:** 17
+- **Easy:** 11
 - **Medium:** 5
 - **Hard:** 1
 - **Language:** C++
@@ -62,11 +63,12 @@ My Data Structures and Algorithms journey using C++.
 | 09 Nov 2026 | Median of Two Sorted Arrays |
 | 10 Nov 2026 | Roman to Integer |
 | 11 Nov 2026 | Sqrt(x) |
+| 12 Nov 2026 | Search Insert Position |
 
 ## Goals
 
-- [ ] Solve first 5 LeetCode problems
-- [ ] Solve 10 LeetCode problems
+- [x] Solve first 5 LeetCode problems
+- [x] Solve 10 LeetCode problems
 - [ ] Solve 25 LeetCode problems
 - [ ] Solve 50 LeetCode problems
 - [ ] Solve 100 LeetCode problems
@@ -75,3 +77,7 @@ My Data Structures and Algorithms journey using C++.
 
 - **LeetCode:** Practice Data Structures and Algorithms
 - **GitHub:** Track my DSA journey and solutions
+
+---
+
+**Consistency is the key to mastering DSA. One problem at a time! 🚀**
