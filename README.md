@@ -1,3 +1,4 @@
+
 # DSA-CPP
 
 My Data Structures and Algorithms journey using C++.
@@ -23,7 +24,7 @@ My Data Structures and Algorithms journey using C++.
 
 ## LeetCode Progress
 
-| **No.** | **Problem Name** | **Topic** | **Difficulty** | **Status** |
+| No. | Problem Name | Topic | Difficulty | Status |
 |---|---|---|---|---|
 | 1 | Two Sum | Array / Hashing | Easy | Solved |
 | 4 | Median of Two Sorted Arrays | Binary Search | Hard | Solved |
@@ -37,6 +38,7 @@ My Data Structures and Algorithms journey using C++.
 | 50 | Pow(x, n) | Math / Recursion | Medium | Solved |
 | 53 | Maximum Subarray | Array / Kadane's Algorithm | Medium | Solved |
 | 69 | Sqrt(x) | Math / Binary Search | Easy | Solved |
+| 88 | Merge Sorted Array | Array / Two Pointers | Easy | Solved |
 | 136 | Single Number | Bit Manipulation | Easy | Solved |
 | 152 | Maximum Product Subarray | Array / DP | Medium | Solved |
 | 169 | Majority Element | Array / Hashing | Easy | Solved |
@@ -45,15 +47,15 @@ My Data Structures and Algorithms journey using C++.
 
 ## Progress Summary
 
-- **Total Problems Solved:** 17
-- **Easy:** 11
+- **Total Problems Solved:** 18
+- **Easy:** 12
 - **Medium:** 5
 - **Hard:** 1
 - **Language:** C++
 
 ## Daily Progress
 
-| **Date** | **Problem Solved** |
+| Date | Problem Solved |
 |---|---|
 | 05 Nov 2026 | Palindrome Number |
 | 06 Nov 2026 | Remove Element |
@@ -64,6 +66,7 @@ My Data Structures and Algorithms journey using C++.
 | 10 Nov 2026 | Roman to Integer |
 | 11 Nov 2026 | Sqrt(x) |
 | 12 Nov 2026 | Search Insert Position |
+| 13 Nov 2026 | Merge Sorted Array |
 
 ## Goals
 
