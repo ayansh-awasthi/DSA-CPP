@@ -1,6 +1,4 @@
-
 # DSA-CPP
-
 My Data Structures and Algorithms journey using C++.
 
 ## Topics
@@ -39,6 +37,7 @@ My Data Structures and Algorithms journey using C++.
 | 53 | Maximum Subarray | Array / Kadane's Algorithm | Medium | Solved |
 | 69 | Sqrt(x) | Math / Binary Search | Easy | Solved |
 | 88 | Merge Sorted Array | Array / Two Pointers | Easy | Solved |
+| 121 | Best Time to Buy and Sell Stock | Array / Greedy | Easy | Solved |
 | 136 | Single Number | Bit Manipulation | Easy | Solved |
 | 152 | Maximum Product Subarray | Array / DP | Medium | Solved |
 | 169 | Majority Element | Array / Hashing | Easy | Solved |
@@ -47,8 +46,8 @@ My Data Structures and Algorithms journey using C++.
 
 ## Progress Summary
 
-- **Total Problems Solved:** 18
-- **Easy:** 12
+- **Total Problems Solved:** 19
+- **Easy:** 13
 - **Medium:** 5
 - **Hard:** 1
 - **Language:** C++
@@ -67,6 +66,7 @@ My Data Structures and Algorithms journey using C++.
 | 11 Nov 2026 | Sqrt(x) |
 | 12 Nov 2026 | Search Insert Position |
 | 13 Nov 2026 | Merge Sorted Array |
+| 14 Nov 2026 | Best Time to Buy and Sell Stock |
 
 ## Goals
 
