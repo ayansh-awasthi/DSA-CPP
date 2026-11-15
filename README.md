@@ -1,8 +1,9 @@
+
 # DSA-CPP
+
 My Data Structures and Algorithms journey using C++.
 
 ## Topics
-
 - Arrays
 - Strings
 - Sorting
@@ -42,15 +43,16 @@ My Data Structures and Algorithms journey using C++.
 | 152 | Maximum Product Subarray | Array / DP | Medium | Solved |
 | 169 | Majority Element | Array / Hashing | Easy | Solved |
 | 217 | Contains Duplicate | Hashing | Easy | Solved |
+| 283 | Move Zeroes | Array / Two Pointers | Easy | Solved |
 | 2022 | Convert 1D Array Into 2D Array | Array / Matrix | Easy | Solved |
 
 ## Progress Summary
 
-- **Total Problems Solved:** 19
-- **Easy:** 13
-- **Medium:** 5
-- **Hard:** 1
-- **Language:** C++
+- Total Problems Solved: 20
+- Easy: 14
+- Medium: 5
+- Hard: 1
+- Language: C++
 
 ## Daily Progress
 
@@ -67,6 +69,7 @@ My Data Structures and Algorithms journey using C++.
 | 12 Nov 2026 | Search Insert Position |
 | 13 Nov 2026 | Merge Sorted Array |
 | 14 Nov 2026 | Best Time to Buy and Sell Stock |
+| 15 Nov 2026 | Move Zeroes |
 
 ## Goals
 
@@ -78,9 +81,7 @@ My Data Structures and Algorithms journey using C++.
 
 ## Coding Platforms
 
-- **LeetCode:** Practice Data Structures and Algorithms
-- **GitHub:** Track my DSA journey and solutions
+- LeetCode: https://leetcode.com/u/Ayansh_Awasthi/
+- GitHub: https://github.com/ayansh-awasthi
 
----
-
-**Consistency is the key to mastering DSA. One problem at a time! 🚀**
+Consistency is the key to mastering DSA. One problem at a time! 🚀
